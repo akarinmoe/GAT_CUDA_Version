@@ -16,27 +16,27 @@ Curriculum Design for Principles of Parallel Programming Advised by Professor Yi
 
 ```
 GAT_CUDA/
-├── data/                                                                                  # Cora dataset
+├── data/                                   # Cora dataset
 │   └── cora/
 │       ├── cora.cites
 │       ├── cora.content
 │       └── README
 ├── kernel_folder/					
-│   ├── Kernels/                                                                           # CUDA kernels
+│   ├── Kernels/                            # CUDA kernels
 │   │   ├── aggregate_features.cu
 │   │   ├── compute_attention_coeff.cu
 │   │   ├── gat.cpp
 │   │   ├── linear_transform.cu
 │   │   ├── softmax_kernel.cu
-│   │   ├── makefile                                                                       # Makefile of the kernel folder
+│   │   ├── makefile                        # Makefile of the kernel folder
 │   └── build/
 ├── .gitignore
-├── 855.pkl                                                                                # Checkpoint of core dataset
-├── inference.py                                                                           # Inference script
+├── 855.pkl                                 # Checkpoint of core dataset
+├── inference.py                            # Inference script
 ├── layers.py
 ├── models.py
-├── README.md                                                                              # Main project documentation
-├── requirements.txt                                                                       # Dependencies required for the project
+├── README.md                               # Main project documentation
+├── requirements.txt                        # Dependencies required for the project
 ├── setup.py
 ├── train.py
 └── utils.py
