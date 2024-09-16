@@ -2,7 +2,7 @@
 
 Curriculum Design for Principles of Parallel Programming Advised by Professor Yizhuo Wang
 
-
+Student: Weichu Xie
 
 ## Introduction
 
