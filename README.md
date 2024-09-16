@@ -4,6 +4,9 @@ Curriculum Design for Principles of Parallel Programming Advised by Professor Yi
 
 Student: Weichu Xie 1120222370
 
+## Hardware
+RTX 3090 with CUDA 11.8 sm_86
+
 ## Introduction
 
 ### Contents

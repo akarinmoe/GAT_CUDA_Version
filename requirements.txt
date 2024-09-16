@@ -1,4 +1,4 @@
-numpy==1.15.1
-scipy==1.1.0
-torch==0.4.1.post2
+numpy==1.21.1
+scipy==1.9.1
+torch==2.2.1
 ninja==1.11.1.1
